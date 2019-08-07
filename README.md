@@ -1,5 +1,5 @@
-# LiveOverflow-cloudshell-scripts
-Some bash scripts that are useful when performing research on Google's Cloudshell
+# LiveOverflow-cloudshell-stuff
+Some bash scripts and other tools that are useful when performing research on Google's Cloudshell
 
 ### 1-escape-from-cloudshell.sh
 Copy and paste the lines on your Cloudshell terminal. 
