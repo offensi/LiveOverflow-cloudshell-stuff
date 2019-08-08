@@ -13,7 +13,7 @@ Copy and paste the lines in this file to your terminal while having a session op
 Basic high level overview 
 
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/offensi/LiveOverflow-cloudshell-stuff&open_in_editor=README.md)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/offensi/LiveOverflow-cloudshell-stuff&tutorial=README.md)
 
 #### Contact
 
