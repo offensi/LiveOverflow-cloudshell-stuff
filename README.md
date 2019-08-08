@@ -8,3 +8,11 @@ This script will provide you with the 'LiveOverflow-container' that has host-bas
 
 ### 2-reconfigure-kubernetes.sh
 Copy and paste the lines in this file to your terminal while having a session opened on the 'LiveOverflow-container' (as described above). This will reconfigure the kubernetes cluster. After restarting all containers inside the cluster will run in privileged mode. 
+
+### Overview/ 
+Basic high level overview 
+
+
+- e-mail : wtm@offensi.com
+- website: https://offensi.com
+- twitter: https://twitter.com/wtm_offensi
