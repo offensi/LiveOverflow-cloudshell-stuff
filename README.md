@@ -13,6 +13,8 @@ Copy and paste the lines in this file to your terminal while having a session op
 Basic high level overview 
 
 
+#### Contact
+
 - e-mail : wtm@offensi.com
 - website: https://offensi.com
 - twitter: https://twitter.com/wtm_offensi
